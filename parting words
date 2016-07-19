@@ -1,0 +1,14 @@
+I didn't get to finish the project 
+
+the last file i was working on was the radioadd1 inside the c++ folder
+the goal of that was to have to have 2 seperate micro:bits ping pong data back and forth
+it was supposed to start at 0 and each microbit sends the next incimenting number   0 -> 1 -> 2 -> 3 ...
+
+after that the goal was to insure that the project would work with alternating energy flow such as when a drill motor is cranked then stopped 
+this was goinging to be implimented into a game program i developed that uses the direction and speed of the drill motor to control the game
+
+that game can be found in the micropython folder inside of this repository 
+
+
+I had a lot of fun working for this internship and know that i learned a lot of things in a quicker timeframe then i would've on my own
+I hope that whoever inherits this project has as much fun working on it and learning as i did   
